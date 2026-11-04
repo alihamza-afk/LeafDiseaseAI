@@ -1,0 +1,11 @@
+.DS_Store
+.agents/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+.ipynb_checkpoints/
+Untitled.ipynb
+leaf_disease_model.keras

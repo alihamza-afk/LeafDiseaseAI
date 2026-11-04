@@ -1,4 +1,4 @@
-# 🌿 Leaf Disease AI
+# Leaf Disease AI
 
 A Streamlit web app that identifies plant leaf diseases from a single photo using a fine-tuned **InceptionV3** deep learning model trained on 38 disease classes across 14 crop species.
 
@@ -6,7 +6,7 @@ A Streamlit web app that identifies plant leaf diseases from a single photo usin
 
 ---
 
-## ✨ Features
+## Features
 
 - Upload any leaf photo (JPG / PNG) and get an instant prediction
 - Displays the top predicted disease with a model confidence score
@@ -16,7 +16,7 @@ A Streamlit web app that identifies plant leaf diseases from a single photo usin
 
 ---
 
-## 🌱 Supported Plants & Diseases (38 classes)
+## Supported Plants & Diseases (38 classes)
 
 | Plant | Conditions detected |
 |-------|-------------------|
@@ -37,7 +37,7 @@ A Streamlit web app that identifies plant leaf diseases from a single photo usin
 
 ---
 
-## 🧠 Model Architecture
+## Model Architecture
 
 | Property | Value |
 |----------|-------|
@@ -56,7 +56,7 @@ The model was trained on the [New Plant Diseases Dataset](https://www.kaggle.com
 
 ---
 
-## 🚀 Run Locally
+## Run Locally
 
 **Requirements:** Python 3.11
 
@@ -83,7 +83,7 @@ Then open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ---
 
-## ☁️ Deploy on Streamlit Community Cloud
+## Deploy on Streamlit Community Cloud
 
 1. Fork or push this repository to your GitHub account.
 2. Go to [share.streamlit.io](https://share.streamlit.io) and click **Create app**.
@@ -93,7 +93,7 @@ Then open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 LeafDiseaseAI/
@@ -108,13 +108,13 @@ LeafDiseaseAI/
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This tool is intended for educational and research purposes only. Model scores are raw softmax outputs and are **not** calibrated probabilities. This app is **not** a substitute for professional agricultural or plant pathology advice. Always consult a qualified expert for actual crop disease diagnosis and treatment decisions.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
 
